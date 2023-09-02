@@ -111,5 +111,25 @@
  "target": "ns2.vercel-dns.com"
     }
 
-]
-  
+  },
+  {
+ "koneksi" : "NS",
+ "hostku" : "regeducation",
+ "target": "gns21.cloudns.net"
+  },
+  {
+ "koneksi" : "NS",
+ "hostku" : "regeducation",
+ "target": "gns22.cloudns.net"
+  },
+  {
+ "koneksi" : "NS",
+ "hostku" : "regeducation",
+ "target": "gns23.cloudns.net"
+  },
+  {
+ "koneksi" : "NS",
+ "hostku" : "regeducation",
+ "target": "gns24.cloudns.net"
+  },
+  {
